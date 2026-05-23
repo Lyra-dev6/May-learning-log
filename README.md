@@ -19,3 +19,5 @@ This project documents my journey in learning and development.
 **May 20th:** Researching new projects I can do with Python to strengthen my Python coding and knowledge.
 
 **May 22nd:** Started and completed a new project that combines frontend web development skills with backend(HTML, CSS, Python)
+
+**May 23rd:** Uploaded my website and made a domain website name using render.
