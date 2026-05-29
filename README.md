@@ -12,7 +12,7 @@ This project documents my journey in learning and development.
 
 **May 17th:** Officially started my new repository on a new project: An automated file orgnizer using python.
 
-**May 18th:** Started and actually finished coding my automated file project, although I ran into a problem with testing it due to internet issues, I guess I'll try again tomorrow.
+**May 18th:** Started and actually finished coding my automated file project, although I ran into a problem with testing it because of internet issues, I guess I'll try again tomorrow.
 
 **May 19th:** Managed to run and test the file organizer and upload it on github on a new repository.
 
